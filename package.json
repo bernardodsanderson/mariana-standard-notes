@@ -1,6 +1,6 @@
 {
   "name": "sn-theme-mariana",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "dist/dist.css",
   "devDependencies": {
     "grunt": "^1.0.1",
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/bernardodsanderson/mariana-theme.git"
   }
 }
